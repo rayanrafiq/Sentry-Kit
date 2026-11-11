@@ -26,8 +26,8 @@ SentryKit scans ports, analyzes logs, monitors file integrity, checks password s
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/sentrykit.git
-cd sentrykit
+git clone https://github.com/rayanrafiq/Sentry-Kit.git
+cd SentryKit
 
 # 2. (Optional) create and activate a virtual environment
 python3 -m venv venv

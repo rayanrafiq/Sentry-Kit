@@ -1,0 +1,6 @@
+# SentryKit uses only the Python standard library (Python 3.8+).
+# No third-party packages are required.
+#
+# Add optional future dependencies below, for example:
+# requests>=2.31.0
+# rich>=13.0.0
